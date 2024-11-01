@@ -9,3 +9,8 @@ body {
 #top {
     background-color: rgb(104, 253, 104);
 }
+
+#monograph_link {
+    font-size: 30px;
+    margin-left: 5%;
+}
